@@ -1,0 +1,99 @@
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	background-image: url(images/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+h1, h3, h4 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 20px;
+	padding: 10px;
+	color: white;
+}
+
+.name {
+	background: #4aaaa5;
+}
+
+.header, .section, .aside {
+	background: #ffffff;
+	opacity: .8;
+}
+
+.header {
+	
+	border-bottom: 3px solid lightgrey;
+	margin-bottom: 20px;
+}
+
+h3, h4 {
+	padding: 10px;
+	border-bottom: 2px solid lightgrey;
+	color: #4aaaa5;
+
+}
+
+.navbar {
+	overflow: auto;
+}
+
+.navbar-link {
+	padding-right:  15px;
+	margin-left: 15px;
+	border-right: 1px dotted lightgrey;
+}
+
+.navbar-link:last-child {
+	border: none;
+	padding-right: 0px;
+}
+
+a.navbar-link {
+	color: grey;
+	text-decoration: none;
+}
+
+#kingkong {
+	width: 250px;
+	height: 200px;
+	margin: 0 2% 2% 0;
+	border: 3px solid grey;
+}
+
+.media-object {
+	width: 20%;
+	height: 20%;
+	margin: 0 6% 0 6%;
+}
+
+.aside, .section {
+	border: 3px solid lightgrey;
+}
+
+.section {
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+
+}
+
+p {
+	text-indent: 20px;
+}
+
+.aside {
+	padding-bottom: 20px;
+	overflow: auto;
+	color: #ffffff;
+}
+
+.footer {
+	background: #666666;
+	padding: 15px;
+	border-top: 3px solid #4aaaa5;
+	opacity: .8;
+}
