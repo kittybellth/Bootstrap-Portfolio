@@ -67,9 +67,9 @@ a.navbar-link {
 }
 
 .media-object {
-	width: 60px;
-	height: 60px;
-	margin: 0 4% 0 4%;
+	width: 20%;
+	height: 20%;
+	margin: 0 5% 0 5%;
 }
 
 .aside, .section {
@@ -119,6 +119,7 @@ button{
 	max-width: 100%;
 	height: auto;
 
+
 }
 
 .col-portfolio {
@@ -134,6 +135,6 @@ button{
 	color: #ffffff;
 	background: #4aaaa5;
 	bottom: 0;
-	width: 100%;
+	width: 90%;
 	text-align: center;
 }
